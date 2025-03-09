@@ -146,11 +146,11 @@ Importance:
 Confirms that the system meets the business requirements and user expectations and provides final validation before the software is released.   
 
 
-#Part 2: Introduction to AI and Prompt Engineering
+**#Part 2: Introduction to AI and Prompt Engineering**
 
 
-**Define prompt engineering and discuss its importance in interacting with AI models.
-**
+**Define prompt engineering and discuss its importance in interacting with AI models.**
+
 Prompt engineering is the art and science of crafting effective prompts (inputs) for AI models to elicit desired and accurate outputs. It involves carefully designing and structuring prompts to guide the AI's response in a specific direction.   
 Prompt engineering focuses on how to phrase and structure inputs to AI models to achieve optimal results. This includes Clearly defining the task, providing relevant context, using specific keywords and phrasing, specifying the desired format of the output.   
   
@@ -158,7 +158,7 @@ Importance:
 •	Enhanced Accuracy and Relevance: Well-crafted prompts significantly improve the accuracy and relevance of AI-generated responses. By providing clear instructions and context, you can minimize ambiguity and guide the AI toward the desired output.   
 •	Improved Control: Prompt engineering gives users greater control over AI behavior. It allows you to steer the AI's response, specify the tone and style, and even influence the AI's reasoning process.   
 •	Bias Mitigation:  AI models are trained on vast datasets that may contain biases. Prompt engineering can help mitigate these biases by carefully structuring prompts to avoid triggering biased responses.   
-•	Increased Efficiency:  Effective prompts can reduce the need for multiple iterations and refine the AI's output more quickly. This saves time and effort for users.   
+•	Increased Efficiency:  Effective prompts can reduce the need for multiple iterations and refine the AI's output more quickly. This saves time and effort for users. 
 •	User Experience: By creating prompts that produce higher quality results, the overall user experience of interacting with AI systems is vastly improved. 
 
 **Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.**
